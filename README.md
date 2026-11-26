@@ -1,4 +1,4 @@
-# AI in Finance: Stock Market Prediction Using AI and ML — A Systematic Literature Review
+# AI in Finance: Stock Market Prediction Using AI and ML — A Comparative Literature Review
 
 [![Type](https://img.shields.io/badge/Project%20Type-Literature%20Review-blue)]()
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Academic%20Use-lightgrey)]()
 
 > A systematic literature review examining how Artificial Intelligence and Machine
-> Learning techniques have been applied to stock market prediction, synthesized
+> Learning techniques have been applied to stock market prediction, synthesised
 > from 19 peer-reviewed studies and covering classical ML, deep learning, ensemble/hybrid
 > methods, and sentiment-driven approaches.
 
