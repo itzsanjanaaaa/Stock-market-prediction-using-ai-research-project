@@ -252,8 +252,3 @@ repository**:
 - [ ] Build a simple dashboard to visualize predictions vs. actuals
 
 ---
-
-*This README was reorganized and polished for GitHub presentation from the original
-academic submission. All research content, findings, and conclusions are drawn directly
-from the uploaded paper; no claims, results, or techniques have been added beyond what
-the source document contains.*
